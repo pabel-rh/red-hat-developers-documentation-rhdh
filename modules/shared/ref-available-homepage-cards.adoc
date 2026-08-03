@@ -7,7 +7,7 @@
 Integrate custom features from installed plugins into your Home page by using available cards.
 Configure card visibility by attaching cards to RBAC groups using visibility rules.
 
-The following is a list of the available homepage cards:
+The available homepage cards are listed in the following table:
 
 ** Search bar
 ** Quick access
