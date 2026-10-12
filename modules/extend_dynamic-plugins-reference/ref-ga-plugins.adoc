@@ -35,7 +35,7 @@
 `SEGMENT_WRITE_KEY`
 
 
-|Dynamic Home Page |`https://npmjs.com/package/@red-hat-developer-hub/backstage-plugin-dynamic-home-page/v/1.13.1[@red-hat-developer-hub/backstage-plugin-dynamic-home-page]` |1.13.1 
+|Dynamic Home Page |`https://npmjs.com/package/@red-hat-developer-hub/backstage-plugin-dynamic-home-page/v/1.13.5[@red-hat-developer-hub/backstage-plugin-dynamic-home-page]` |1.13.5 
 |`./dynamic-plugins/dist/red-hat-developer-hub-backstage-plugin-dynamic-home-page`
 
 
@@ -82,7 +82,7 @@
 
 
 |Http Request |`https://npmjs.com/package/@roadiehq/scaffolder-backend-module-http-request/v/5.6.0[@roadiehq/scaffolder-backend-module-http-request]` |5.6.0 
-|`oci://registry.access.redhat.com/rhdh/roadiehq-scaffolder-backend-module-http-request@sha256:4868bcc51d9f6356cf76fdfa0e1ad9f151c7a0518fb840ab7c909972d84d015d`
+|`oci://registry.access.redhat.com/rhdh/roadiehq-scaffolder-backend-module-http-request@sha256:bacea90724614c3462d8bba0464372b964c95ffe19eff9fa48c6d4050815e6e2`
 
 
 |Keycloak |`https://npmjs.com/package/@backstage-community/plugin-catalog-backend-module-keycloak/v/3.19.2[@backstage-community/plugin-catalog-backend-module-keycloak]` |3.19.2 
@@ -127,12 +127,12 @@
 `LDAP_USERS_DN`
 
 
-|Lightspeed |`https://npmjs.com/package/@red-hat-developer-hub/backstage-plugin-lightspeed/v/2.8.7[@red-hat-developer-hub/backstage-plugin-lightspeed]` |2.8.7 
-|`oci://registry.access.redhat.com/rhdh/red-hat-developer-hub-backstage-plugin-lightspeed@sha256:6d3199e17576887fa6d247fa1484887d2b0e1d7257ba746974bc3b8bacf94804`
+|Lightspeed |`https://npmjs.com/package/@red-hat-developer-hub/backstage-plugin-lightspeed/v/2.8.8[@red-hat-developer-hub/backstage-plugin-lightspeed]` |2.8.8 
+|`oci://registry.access.redhat.com/rhdh/red-hat-developer-hub-backstage-plugin-lightspeed@sha256:0ca07bd2b15a85bfda16cbc0904fb4ee6c8620e18b891ba89ae792cf0a165095`
 
 
-|Lightspeed |`https://npmjs.com/package/@red-hat-developer-hub/backstage-plugin-lightspeed-backend/v/2.8.7[@red-hat-developer-hub/backstage-plugin-lightspeed-backend]` |2.8.7 
-|`oci://registry.access.redhat.com/rhdh/red-hat-developer-hub-backstage-plugin-lightspeed-backend@sha256:90190a9ce75344bb486a9f8098b2faf3d835ae8c1e5f8636ad01784dfe5b2bd8`
+|Lightspeed |`https://npmjs.com/package/@red-hat-developer-hub/backstage-plugin-lightspeed-backend/v/2.8.8[@red-hat-developer-hub/backstage-plugin-lightspeed-backend]` |2.8.8 
+|`oci://registry.access.redhat.com/rhdh/red-hat-developer-hub-backstage-plugin-lightspeed-backend@sha256:55b8b4e43f9dd474dee53d824591695012994daec86efee4dc08612b12425a46`
 
 
 |MS Graph |`https://npmjs.com/package/@backstage/plugin-catalog-backend-module-msgraph/v/0.9.1[@backstage/plugin-catalog-backend-module-msgraph]` |0.9.1 
@@ -146,7 +146,7 @@
 
 
 |Orchestrator Backend Module Loki |`https://npmjs.com/package/@red-hat-developer-hub/backstage-plugin-orchestrator-backend-module-loki/v/1.2.7[@red-hat-developer-hub/backstage-plugin-orchestrator-backend-module-loki]` |1.2.7 
-|`oci://registry.access.redhat.com/rhdh/red-hat-developer-hub-backstage-plugin-orchestrator-backend-module-loki@sha256:9fa5a3008b36343e1ea73e4d4aa7400c2b6b6a348f1c16a0483d937a429cf710`
+|`oci://registry.access.redhat.com/rhdh/red-hat-developer-hub-backstage-plugin-orchestrator-backend-module-loki@sha256:6283703a24862b05da5db698c7963c1d3b838edf170f0b4f7c2b275f3592d0d0`
 
 `AUTH_TOKEN`
 
@@ -154,26 +154,26 @@
 
 
 |Orchestrator Form Widgets |`https://npmjs.com/package/@red-hat-developer-hub/backstage-plugin-orchestrator-form-widgets/v/1.10.8[@red-hat-developer-hub/backstage-plugin-orchestrator-form-widgets]` |1.10.8 
-|`oci://registry.access.redhat.com/rhdh/red-hat-developer-hub-backstage-plugin-orchestrator-form-widgets@sha256:45c9e8baef4ea50fcd023c1bbf597e5ebc0446e158710e819f640c9869c246ce`
+|`oci://registry.access.redhat.com/rhdh/red-hat-developer-hub-backstage-plugin-orchestrator-form-widgets@sha256:bf6b82078d3f3016b05cd23c71399f2350f7c81e363e2cdf2a7bf93539beed04`
 
 
 |Orchestrator |`https://npmjs.com/package/@red-hat-developer-hub/backstage-plugin-orchestrator/v/5.7.15[@red-hat-developer-hub/backstage-plugin-orchestrator]` |5.7.15 
-|`oci://registry.access.redhat.com/rhdh/red-hat-developer-hub-backstage-plugin-orchestrator@sha256:a070e3e1a7dbc7eca0579462acdb7c3a0a586bff1b7590b0396bc4a4caebba62`
+|`oci://registry.access.redhat.com/rhdh/red-hat-developer-hub-backstage-plugin-orchestrator@sha256:5db3cb44ce2bcb7b81718111f95e424828fb2b165a626f9b0a19261fbfdc0736`
 
 
 |Orchestrator |`https://npmjs.com/package/@red-hat-developer-hub/backstage-plugin-orchestrator-backend/v/8.9.5[@red-hat-developer-hub/backstage-plugin-orchestrator-backend]` |8.9.5 
-|`oci://registry.access.redhat.com/rhdh/red-hat-developer-hub-backstage-plugin-orchestrator-backend@sha256:4abb8df48dcc06b89165211ca7e9068021ee58a287ef5b367b43323f03cd263a`
+|`oci://registry.access.redhat.com/rhdh/red-hat-developer-hub-backstage-plugin-orchestrator-backend@sha256:ea7bbfa9ddb09f936e996ce3f4d6474c3d24388a4feebc18ffaff44614c1d119`
 
 
 |Orchestrator |`https://npmjs.com/package/@red-hat-developer-hub/backstage-plugin-scaffolder-backend-module-orchestrator/v/1.5.4[@red-hat-developer-hub/backstage-plugin-scaffolder-backend-module-orchestrator]` |1.5.4 
-|`oci://registry.access.redhat.com/rhdh/red-hat-developer-hub-backstage-plugin-scaffolder-backend-module-orchestrator@sha256:e6939ddcbfdcd89eb538101a62f463207c4d9859f7f4728cb3f0978e1048329d`
+|`oci://registry.access.redhat.com/rhdh/red-hat-developer-hub-backstage-plugin-scaffolder-backend-module-orchestrator@sha256:ad7ea7e2d424a4920b1b12c2be861b851ed3768ec674a4e5659d220e65a5110e`
 
 
 |Quickstart |`https://npmjs.com/package/@red-hat-developer-hub/backstage-plugin-quickstart/v/1.9.6[@red-hat-developer-hub/backstage-plugin-quickstart]` |1.9.6 
 |`./dynamic-plugins/dist/red-hat-developer-hub-backstage-plugin-quickstart`
 
 
-|RBAC |`https://npmjs.com/package/@backstage-community/plugin-rbac/v/1.52.5[@backstage-community/plugin-rbac]` |1.52.5 
+|RBAC |`https://npmjs.com/package/@backstage-community/plugin-rbac/v/1.52.6[@backstage-community/plugin-rbac]` |1.52.6 
 |`./dynamic-plugins/dist/backstage-community-plugin-rbac`
 
 
@@ -207,7 +207,7 @@
 |`./dynamic-plugins/dist/backstage-plugin-techdocs-backend-dynamic`
 
 
-|Topology |`https://npmjs.com/package/@backstage-community/plugin-topology/v/2.12.3[@backstage-community/plugin-topology]` |2.12.3 
+|Topology |`https://npmjs.com/package/@backstage-community/plugin-topology/v/2.12.4[@backstage-community/plugin-topology]` |2.12.4 
 |`./dynamic-plugins/dist/backstage-community-plugin-topology`
 
 
