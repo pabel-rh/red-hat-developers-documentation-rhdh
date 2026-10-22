@@ -18,6 +18,7 @@ The following 16 preinstalled dynamic plugins are enabled by default:
 * `@backstage/plugin-techdocs-module-addons-contrib`
 * `@backstage/plugin-techdocs-backend`
 * `@red-hat-developer-hub/backstage-plugin-catalog-backend-module-extensions`
+* `@red-hat-developer-hub/backstage-plugin-extensions`
 * `@red-hat-developer-hub/backstage-plugin-extensions-backend`
 * `@red-hat-developer-hub/backstage-plugin-extensions`
 * `@red-hat-developer-hub/backstage-plugin-global-floating-action-button`
